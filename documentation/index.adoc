@@ -88,7 +88,7 @@ https://confluence.terracotta.org/display/release/Home[Release Notes, role="exte
 |WebSessions 4.3.7 Documentation|link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_437/web-sessions/webhelp/index.html[HTML, window="_blank"]
 
 |Terracotta 10.3 Documentation|link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta-db_10-3/webhelp/index.html[HTML, window="_blank"]
-|Terracotta 10.3 Java Doc|link:/files/artifacts/terracotta-store-client-10.3.0.1.87-javadoc.zip[.zip, window="_blank"]
+|Terracotta 10.3 Java Doc|link:/files/artifacts/terracotta-store-client-10.3.0.1.87-javadoc.jar[.jar, window="_blank"]
 
 |BigMemory Max 4.3.6 Documentation|link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_436/bigmemory-max/webhelp/index.html[HTML, window="_blank"]
 |BigMemory Go 4.3.6 Documentation|link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_436/bigmemory-go/webhelp/index.html[HTML, window="_blank"]

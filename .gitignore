@@ -4,7 +4,7 @@ _site
 .idea
 Gemfile.lock
 ._*
- node_modules/
+node_modules/
 package-lock.json
 *.iml
 

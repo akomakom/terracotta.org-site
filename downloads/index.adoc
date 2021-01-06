@@ -14,7 +14,7 @@ active_menu_id: tc_mnu_download
 
 #### Open Source
 
-> http://www.ehcache.org/downloads/[Ehcache 3.x (with clustering) kit]
+> https://www.ehcache.org/downloads/[Ehcache 3.x (with clustering) kit]
 
 Open Source Terracotta Server 5.x can be downloaded as part of the Ehcache 3.x clustering kit.
 

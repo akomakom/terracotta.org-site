@@ -27,52 +27,52 @@ link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta-db_10-5/10
 link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta-db_10-5/10-5_Terracotta_Server_Administration_Guide.pdf[Terracotta Server Administration Guide (PDF), window="_blank"] +
 link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta-db_10-5/10-5_Terracotta_Management_and_Monitoring.pdf[Terracotta Management and Monitoring (PDF), window="_blank"]
 |BigMemory Max 4.3|+++<u>As HTML</u>+++ +
-link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-max/webhelp/index.html[Complete Online Docs, window="_blank"] +
+link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-max/webhelp/index.html[Complete Online Docs, window="_blank"] +
 
 link:/files/artifacts/ehcache-ee-2.10.8.3.9-javadoc.zip[Ehcache 2.10.x Java Doc (.zip)] +
 |+++<u>As PDF</u>+++ +
-link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-max/4-3-8_About_BigMemory_Max.pdf[About BigMemory Max (PDF), window="_blank"] +
-link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-max/4-3-8_BigMemory_Max_Installation_Guide.pdf[Installation Guide (PDF), window="_blank"] +
-link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-max/4-3-8_BigMemory_Max_Configuration_Guide.pdf[Configuration Guide (PDF), window="_blank"] +
-link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-max/4-3-8_BigMemory_Max_Developer_Guide.pdf[Developer Guide (PDF), window="_blank"] +
-link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-max/4-3-8_BigMemory_Max_Administrator_Guide.pdf[Administrator Guide (PDF), window="_blank"] +
-link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-max/4-3-8_BigMemory_Max_Security_Guide.pdf[Security Guide (PDF), window="_blank"] +
-link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-max/4-3-8_BigMemory_Max_Integrations.pdf[Integrations (PDF), window="_blank"] +
-link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-max/4-3-8_BigMemory_Max_Upgrade_and_Migration_Guide.pdf[Upgrade and Migration Guide (PDF), window="_blank"] +
-link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-max/4-3-8_BigMemory_WAN_Replication_Guide.pdf[WAN Replication Guide (PDF), window="_blank"] +
-link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-max/4-3-8_Configuring_a_Cluster_for_High_Availability.pdf[Configuring a Cluster for High Availability (PDF), window="_blank"] +
-link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-max/4-3-8_Cross_Language_Clients_User_Guide.pdf[Cross-Language Clients User Guide (PDF), window="_blank"] +
-link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-max/4-3-8_Terracotta_Management_Console_User_Guide.pdf[Terracotta Management Console User Guide (PDF), window="_blank"] +
-link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-max/4-3-8_Terracotta_Management_REST_Developer_Guide.pdf[Terracotta Management REST Developer Guide (PDF), window="_blank"]
+link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-max/4-3-8_About_BigMemory_Max.pdf[About BigMemory Max (PDF), window="_blank"] +
+link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-max/4-3-8_BigMemory_Max_Installation_Guide.pdf[Installation Guide (PDF), window="_blank"] +
+link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-max/4-3-8_BigMemory_Max_Configuration_Guide.pdf[Configuration Guide (PDF), window="_blank"] +
+link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-max/4-3-8_BigMemory_Max_Developer_Guide.pdf[Developer Guide (PDF), window="_blank"] +
+link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-max/4-3-8_BigMemory_Max_Administrator_Guide.pdf[Administrator Guide (PDF), window="_blank"] +
+link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-max/4-3-8_BigMemory_Max_Security_Guide.pdf[Security Guide (PDF), window="_blank"] +
+link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-max/4-3-8_BigMemory_Max_Integrations.pdf[Integrations (PDF), window="_blank"] +
+link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-max/4-3-8_BigMemory_Max_Upgrade_and_Migration_Guide.pdf[Upgrade and Migration Guide (PDF), window="_blank"] +
+link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-max/4-3-8_BigMemory_WAN_Replication_Guide.pdf[WAN Replication Guide (PDF), window="_blank"] +
+link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-max/4-3-8_Configuring_a_Cluster_for_High_Availability.pdf[Configuring a Cluster for High Availability (PDF), window="_blank"] +
+link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-max/4-3-8_Cross_Language_Clients_User_Guide.pdf[Cross-Language Clients User Guide (PDF), window="_blank"] +
+link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-max/4-3-8_Terracotta_Management_Console_User_Guide.pdf[Terracotta Management Console User Guide (PDF), window="_blank"] +
+link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-max/4-3-8_Terracotta_Management_REST_Developer_Guide.pdf[Terracotta Management REST Developer Guide (PDF), window="_blank"]
 |BigMemory Go 4.3|+++<u>As HTML</u>+++ +
-link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-go/webhelp/index.html[Complete Online Docs, window="_blank"] +
+link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-go/webhelp/index.html[Complete Online Docs, window="_blank"] +
 
 link:/files/artifacts/ehcache-ee-2.10.8.3.9-javadoc.zip[Ehcache 2.10.x Java Doc (.zip)] +
 |+++<u>As PDF</u>+++ +
-link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-go/4-3-8_BigMemory_Go_Installation_Guide.pdf[About BigMemory Go (PDF), window="_blank"] +
-link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-go/4-3-8_BigMemory_Go_Configuration_Guide.pdf[Installation Guide (PDF), window="_blank"] +
-link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-go/4-3-8_BigMemory_Go_Operations_Guide.pdf[Configuration Guide (PDF), window="_blank"] +
-link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-go/4-3-8_BigMemory_Go_Integrations.pdf[Operations Guide (PDF), window="_blank"] +
-link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-max/4-3-8_Terracotta_Management_Console_User_Guide.pdf[Management Console User Guide (PDF), window="_blank"] +
-link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-max/4-3-8_Terracotta_Management_REST_Developer_Guide.pdf[Management REST Developer Guide (PDF), window="_blank"] +
-link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-go/4-3-8_Ehcache_API_Developer_Guide_for_BigMemory_Go.pdf[Developer Guide for BigMemory Go (PDF), window="_blank"]
+link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-go/4-3-8_BigMemory_Go_Installation_Guide.pdf[About BigMemory Go (PDF), window="_blank"] +
+link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-go/4-3-8_BigMemory_Go_Configuration_Guide.pdf[Installation Guide (PDF), window="_blank"] +
+link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-go/4-3-8_BigMemory_Go_Operations_Guide.pdf[Configuration Guide (PDF), window="_blank"] +
+link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-go/4-3-8_BigMemory_Go_Integrations.pdf[Operations Guide (PDF), window="_blank"] +
+link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-max/4-3-8_Terracotta_Management_Console_User_Guide.pdf[Management Console User Guide (PDF), window="_blank"] +
+link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-max/4-3-8_Terracotta_Management_REST_Developer_Guide.pdf[Management REST Developer Guide (PDF), window="_blank"] +
+link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/bigmemory-go/4-3-8_Ehcache_API_Developer_Guide_for_BigMemory_Go.pdf[Developer Guide for BigMemory Go (PDF), window="_blank"]
 |Web Sessions 4.3|+++<u>As HTML</u>+++ +
-link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/web-sessions/webhelp/index.html[Complete Online Docs, window="_blank"]|+++<u>As PDF</u>+++ +
-link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_437/web-sessions/4-3-7_Web_Sessions_User_Guide.pdf[Web Sessions User Guide (PDF), window="_blank"]
+link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_438/web-sessions/webhelp/index.html[Complete Online Docs, window="_blank"]|+++<u>As PDF</u>+++ +
+link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_437/web-sessions/4-3-7_Web_Sessions_User_Guide.pdf[Web Sessions User Guide (PDF), window="_blank"]
 
 |===
 
 
-link:http://www.terracotta.org/confluence/display/release/Home[Platform and Release Compatibility Tables, role="external", window="_blank"]
+link:https://confluence.terracotta.org/display/release/Home[Platform and Release Compatibility Tables, role="external", window="_blank"]
 
 
-link:/about/license.html[License] (Terracotta Public License, Apache 2.0),  link:/files/legal/TOE_3.0.pdf[3rd Party Licenses], link:http://documentation.softwareag.com/legal/[Legal Notices, role="external", window="_blank"]
+link:/about/license.html[License] (Terracotta Public License, Apache 2.0),  link:/files/legal/TOE_3.0.pdf[3rd Party Licenses], link:https://documentation.softwareag.com/legal/[Legal Notices, role="external", window="_blank"]
 
 ---
 
 #### Release Notes
 
-https://confluence.terracotta.org//display/release/Home[Release Notes, role="external", window="_blank"]  (all versions)
+https://confluence.terracotta.org/display/release/Home[Release Notes, role="external", window="_blank"]  (all versions)
 
 ---
 
@@ -83,9 +83,9 @@ https://confluence.terracotta.org//display/release/Home[Release Notes, role="ext
 [options="header"]
 |===
 |&nbsp;|&nbsp;
-|BigMemory Max 4.3.7 Documentation|link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_437/bigmemory-max/webhelp/index.html[HTML, window="_blank"]
-|BigMemory Go 4.3.7 Documentation|link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_437/bigmemory-max/webhelp/index.html[HTML, window="_blank"]
-|WebSessions 4.3.7 Documentation|link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_437/web-sessions/webhelp/index.html[HTML, window="_blank"]
+|BigMemory Max 4.3.7 Documentation|link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_437/bigmemory-max/webhelp/index.html[HTML, window="_blank"]
+|BigMemory Go 4.3.7 Documentation|link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_437/bigmemory-max/webhelp/index.html[HTML, window="_blank"]
+|WebSessions 4.3.7 Documentation|link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_437/web-sessions/webhelp/index.html[HTML, window="_blank"]
 
 |Terracotta 10.3 Documentation|link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta-db_10-3/webhelp/index.html[HTML, window="_blank"]
 |Terracotta 10.3 Java Doc|link:/files/artifacts/terracotta-store-client-10.3.0.1.87-javadoc.zip[.zip, window="_blank"]
@@ -94,17 +94,17 @@ https://confluence.terracotta.org//display/release/Home[Release Notes, role="ext
 |BigMemory Go 4.3.6 Documentation|link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_436/bigmemory-go/webhelp/index.html[HTML, window="_blank"]
 |WebSessions 4.3.6 Documentation|link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_436/web-sessions/webhelp/index.html[HTML, window="_blank"]
 
-|BigMemory Max 4.3.5 Documentation|link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_435/bigmemory-max/webhelp/index.html[HTML, window="_blank"]
-|BigMemory Go 4.3.5 Documentation|link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_435/bigmemory-go/webhelp/index.html[HTML, window="_blank"]
-|WebSessions 4.3.5 Documentation|link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_435/web-sessions/webhelp/index.html[HTML, window="_blank"]
+|BigMemory Max 4.3.5 Documentation|link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_435/bigmemory-max/webhelp/index.html[HTML, window="_blank"]
+|BigMemory Go 4.3.5 Documentation|link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_435/bigmemory-go/webhelp/index.html[HTML, window="_blank"]
+|WebSessions 4.3.5 Documentation|link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_435/web-sessions/webhelp/index.html[HTML, window="_blank"]
 
-|BigMemory Max 4.3.4 Documentation|link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_434/bigmemory-max/webhelp/index.html[HTML, window="_blank"]
-|BigMemory Go 4.3.4 Documentation|link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_434/bigmemory-go/webhelp/index.html[HTML, window="_blank"]
-|WebSessions 4.3.4 Documentation|link:http://documentation.softwareag.com/onlinehelp/Rohan/terracotta_434/web-sessions/webhelp/index.html[HTML, window="_blank"]
+|BigMemory Max 4.3.4 Documentation|link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_434/bigmemory-max/webhelp/index.html[HTML, window="_blank"]
+|BigMemory Go 4.3.4 Documentation|link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_434/bigmemory-go/webhelp/index.html[HTML, window="_blank"]
+|WebSessions 4.3.4 Documentation|link:https://documentation.softwareag.com/onlinehelp/Rohan/terracotta_434/web-sessions/webhelp/index.html[HTML, window="_blank"]
 
-|BigMemory Max 4.1 Documentation|link:http://ww1.terracotta.org/documentation/4.1/bigmemorymax/overview[HTML, window="_blank"]
-|BigMemory Go 4.1 Documentation|link:http://ww1.terracotta.org/documentation/4.1/bigmemorygo[HTML, window="_blank"]
-|WebSessions 4.1 Documentation|link:http://ww1.terracotta.org/documentation/4.1/web-sessions/get-started[HTML, window="_blank"]
+|BigMemory Max 4.1 Documentation|link:https://ww1.terracotta.org/documentation/4.1/bigmemorymax/overview[HTML, window="_blank"]
+|BigMemory Go 4.1 Documentation|link:https://ww1.terracotta.org/documentation/4.1/bigmemorygo[HTML, window="_blank"]
+|WebSessions 4.1 Documentation|link:https://ww1.terracotta.org/documentation/4.1/web-sessions/get-started[HTML, window="_blank"]
 
-|Terracotta 3.7 Documentation|link:http://ww1.terracotta.org/documentation/3.7.4/bigmemorymax/overview[HTML, window="_blank"]
+|Terracotta 3.7 Documentation|link:https://ww1.terracotta.org/documentation/3.7.4/bigmemorymax/overview[HTML, window="_blank"]
 |===

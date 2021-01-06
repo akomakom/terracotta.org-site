@@ -11,7 +11,7 @@ Keep ALL of your data—up to 100s of terabytes—instantly available in RAM dis
 
 ## Key Features
 
-* **Distributed Caching with Ehcache** : Easily distribute data across an application cluster using the  ubiquitous http://www.ehcache.org[Ehcache], backed by Terracotta Server - requires only a simple Ehcache configuration change.
+* **Distributed Caching with Ehcache** : Easily distribute data across an application cluster using the  ubiquitous https://www.ehcache.org[Ehcache], backed by Terracotta Server - requires only a simple Ehcache configuration change.
 * **Off-heap Data Storage** : In-memory data storage is fast.  Terracotta's offheap technology lets you keep as much data in memory as you have RAM.  Tested at 6TB RAM in a single process - with no GC pauses.
 * **High Availability** : Full fault-tolerance / fail-over capabilities deliver always-on uptime.
 

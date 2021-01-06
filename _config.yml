@@ -3,7 +3,7 @@ title: Terracotta
 email: tc-oss@softwareag.com
 description: Java's most widely used cache.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.terracotta.org" # the base hostname & protocol for your site
+url: "https://www.terracotta.org" # the base hostname & protocol for your site
 twitter_username: terracottatech
 github_username:  terracotta-oss
 linkedin_username: terracotta
